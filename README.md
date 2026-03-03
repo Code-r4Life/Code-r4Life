@@ -1,19 +1,141 @@
-# 💫 About Me:
-👨‍💻 About Me :<br><br>🔭 I’m currently working on<br>• AI + ML projects<br>• Full-stack web apps using React, Node.js, Flask<br>• DSA practice in Java for product-based companies<br><br>👯 I’m looking to collaborate on<br>• AI/ML projects<br>• Kaggle competitions & ML challenges<br>• Hackathons, Open-source, and impactful tech ideas<br><br>🤝 I’m looking for help with<br>• Improving DSA problem-solving approach & consistency<br>• ML strategies for competitions & real-world problems<br><br>🌱 I’m currently learning<br>• Data Structures & Algorithms (Java)<br>• Transformers & sequence-to-sequence models<br>• Modeling strategies, evaluation & deployment basics<br><br>⚡ Fun fact<br>• I chase perfection—slow sometimes, but the final output always hits 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Shinjan%20Saha%20|%20Code-r4Life&fontSize=30&fontColor=ffffff"/>
+</p>
+
+<h2 align="center">👋 Hey, I'm Shinjan</h2>
+
+<p align="center">
+  🎓 B.Tech CSE | 🧠 AI & ML Engineer | 🚀 Full-Stack Builder
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a CS undergrad at **University of Engineering and Management, Kolkata**.
+
+I specialize in:
+
+- 🧠 Machine Learning & Deep Learning
+- 📊 Data Science & Predictive Modeling
+- 🌐 Full-Stack Web Development
+- 🔬 Computer Vision & NLP Systems
+
+I focus on building **real-world deployable systems**, not just experiments.
+
+---
+
+## 🏗 Featured Projects
+
+### ✋ SignAI — Indian Sign Language Transcription System  
+
+**Tech:** Python, TensorFlow, MediaPipe, OpenCV, Flask, React (Vite), BiLSTM  
+
+- **Developed** a landmark-based ISL recognition system using MediaPipe (258 features/frame, 60-frame sequences) and a Bidirectional LSTM for temporal classification.  
+- **Built** a complete preprocessing pipeline converting raw gesture videos into structured landmark datasets for robust model training.  
+- **Implemented** real-time webcam inference with confidence scoring and optional text-to-speech, integrated via Flask backend and React frontend.  
+- **Achieved Grand Finalist status at CosmoHack1**, ranking **Top 20 out of 500+ teams nationwide**.  
+
+---
+
+### 🩺 Disease Prediction Web App  
+
+**Tech:** Python, Flask, TensorFlow, Scikit-learn, HTML/CSS/JS, Gemini API, JWT  
+
+- **Built** a full-stack ML web application predicting 5+ diseases with **93–96% model accuracy**.  
+- **Engineered** a real-time image inference pipeline delivering predictions in **<2s latency**.  
+- **Integrated** a Gemini-powered chatbot with session memory to enhance symptom-based guidance.  
+- **Implemented** JWT-based authentication and authorization to secure user sessions and protected API routes.  
+- **Developed** a user profile dashboard to store and manage prediction history.  
+- **Reduced** manual screening effort by ~40% through automated preliminary diagnosis support.  
+
+---
+
+### 🔍 Logo Authenticity Detection System
+
+**Tech:** Python, Flask, TensorFlow, MobileNetV3, OpenCV  
+
+- CNN-based binary + multiclass classification system  
+- Built custom dataset (3K+ images) with augmentation  
+- High-accuracy detection for Adidas, Nike, Gucci  
+- Real-time web interface using Flask backend  
+
+---
+
+### 🎙️ SER using Deep Learning  
+
+**Tech:** Python, TensorFlow, Librosa, Scikit-learn  
+
+- Engineered an end-to-end audio processing pipeline including MFCC, Chroma, RMS, ZCR, and Mel Spectrogram features.  
+- Designed and trained a 1D CNN (2.67M parameters) achieving **92% test accuracy** across 7 emotion classes.  
+- Applied augmentation techniques (noise injection, pitch shift, time stretch) to improve model generalization.  
+
+---
+
+## 🧠 Technical Skills
+
+### 💻 Languages
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=java,python,c,javascript&titles=true"/>
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=vite,react,html,css,tailwind,nodejs,express,mongoose,jwt&titles=true"/>
+</p>
+
+### 🧠 AI / ML / Data Science
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=tensorflow,keras,sklearn,opencv,numpy,pandas,matplotlib,seaborn&titles=true"/>
+</p>
+
+### 🗄 Databases
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=mysql,mongodb&titles=true"/>
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shinjan-saha-1bb744319/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shinjansaha00@gmail.com) 
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=huggingface,ollama,docker,vercel,render,railway&titles=true"/>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-000000.svg?style=for-the-badge&logo=yolo&logoColor=white)
+### 🛠 Tools
+<p>
+  <img src="https://skill-icons-fast.vercel.app/api/icons?i=jupyter,googlecolab,vscode,pycharm,git,github&titles=true"/>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Code-r4Life&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Code-r4Life&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-r4Life&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 GitHub Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Code-r4Life&theme=holi)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Code-r4Life&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-r4Life&theme=holi)
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shinjan-saha-1bb744319/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shinjansaha00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ✍️ Random Dev Quote 
+
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" /> </p> 
+
+---
+
+<p align="center">
+  ⚡ Building intelligent systems. Shipping real products. Scaling impact.
+</p>
