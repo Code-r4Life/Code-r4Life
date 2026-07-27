@@ -49,22 +49,26 @@ shinjan = {
 <tr>
 <td width="50%">
 
-### 🚨 [Real-Time Fraud Call Detection](https://github.com/Code-r4Life/Fraud-Call-Detection)
-[![Real-Time Scam Detection](https://opengraph.githubassets.com/1/Code-r4Life/Fraud-Call-Detection)](https://github.com/Code-r4Life/Fraud-Call-Detection)
+### 🚨 [Real-Time Fraud Call Detection](https://github.com/CyberKnight-cmd/spam-call-detection)
+[![Real-Time Scam Detection](https://opengraph.githubassets.com/1/CyberKnight-cmd/spam-call-detection)](https://github.com/CyberKnight-cmd/spam-call-detection)
 
-Real-time scam call detection using Speech AI, ML ensembles, and semantic analysis.
+Real-time scam call detection using Speech AI, multi-model fusion, and conversation analysis.
+
+**Team Project · AI/ML Development**
 
 `Python` `Tensorflow` `XGBoost` `Whisper.cpp` `Librosa` `WebRTC VAD`
 
 </td>
 <td width="50%">
 
-### 🤟 [Indian Sign Language Transcription System](https://github.com/Code-r4Life/SignAI)
-[![SignAI](https://opengraph.githubassets.com/1/Code-r4Life/SignAI)](https://github.com/Code-r4Life/SignAI)
+### 🌍 [Urban Air Unified](https://github.com/CyberKnight-cmd/Urban-Air-Unified)
+[![Urban Air Unified](https://opengraph.githubassets.com/1/CyberKnight-cmd/Urban-Air-Unified/)](https://github.com/CyberKnight-cmd/Urban-Air-Unified/)
 
-Real-time sign language interpretation using MediaPipe, GCN-BiLSTM, and Gemini.
+AI-powered air quality forecasting, source attribution, and autonomous environmental intelligence.
 
-`Python` `Tensorflow` `Mediapipe` `GCN` `BiLSTM` `Gemini API`
+**Team Project · AI/ML Development**
+
+`Python` `FastAPI` `XGBoost` `NMF` `LangGraph` `OSMnx` `Open-Meteo`
 
 </td>
 </tr>
@@ -81,12 +85,12 @@ Real-time observability platform combining anomaly detection, telemetry analytic
 </td>
 <td width="50%">
 
-### 🦺 [Object Detection with YOLOv8](https://github.com/Code-r4Life/Object-Detection-YOLO)
-[![Object Detection](https://opengraph.githubassets.com/1/Code-r4Life/Object-Detection-YOLO)](https://github.com/Code-r4Life/Object-Detection-YOLO)
+### 🤟 [Indian Sign Language Transcription System](https://github.com/Code-r4Life/SignAI)
+[![SignAI](https://opengraph.githubassets.com/1/Code-r4Life/SignAI)](https://github.com/Code-r4Life/SignAI)
 
-Real-time safety equipment detection using YOLOv8 for industrial environments.
+Real-time sign language interpretation using MediaPipe, GCN-BiLSTM, and Gemini.
 
-`Python` `YOLOv8` `Pytorch` `OpenCV` `Flask` `Ultralytics`
+`Python` `Tensorflow` `Mediapipe` `GCN` `BiLSTM` `Gemini API`
 
 </td>
 </tr>
