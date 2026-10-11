@@ -88,9 +88,9 @@ Real-time observability platform combining anomaly detection, telemetry analytic
 ### 🤟 [Indian Sign Language Transcription System](https://github.com/Code-r4Life/SignAI)
 [![SignAI](https://opengraph.githubassets.com/1/Code-r4Life/SignAI)](https://github.com/Code-r4Life/SignAI)
 
-Real-time sign language interpretation using MediaPipe, GCN-BiLSTM, and Gemini.
+Real-time Indian Sign Language transcription built for webcam-based recognition, with GCN-BiLSTM and fingerspelling.
 
-`Python` `Tensorflow` `Mediapipe` `GCN` `BiLSTM` `Gemini API`
+`Python` `Tensorflow` `Mediapipe` `GCN-BiLSTM` `Fingerspelling` `Gemini API`
 
 </td>
 </tr>
